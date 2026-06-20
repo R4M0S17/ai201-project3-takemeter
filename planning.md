@@ -158,10 +158,10 @@ Raw review text blocks were extracted from the Steam web interface and compiled 
 
 | Class       | Count   | Percentage |
 | ----------- | ------- | ---------- |
-| `opinion`   | 132     | 59.5%      |
-| `technical` | 42      | 18.9%      |
-| `joke_meme` | 49      | 22.1%      |
-| **Total**   | **222** | **100.0%** |
+| `opinion`   | 132     | 55.9%      |
+| `technical` | 48      | 20.3%      |
+| `joke_meme` | 56      | 23.7%      |
+| **Total**   | **236** | **100.0%** |
 
 **Distribution Analysis:**
 
